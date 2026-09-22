@@ -1,0 +1,7 @@
+product_id,product_name,category,stock_quantity
+P100,Laptop,Electronics,50
+P101,Mouse,Accessories,200
+P102,Keyboard,Accessories,150
+P103,Monitor,Electronics,75
+P104,Chair,Furniture,40
+P105,Desk,Furniture,30

@@ -1,0 +1,11 @@
+customer_id,name,city,state,membership
+C1001,Aisha,Chennai,Tamil Nadu,Gold
+C1002,Rahul,Bengaluru,Karnataka,Silver
+C1003,Meera,Hyderabad,Telangana,Gold
+C1004,Arjun,Mumbai,Maharashtra,Bronze
+C1005,Priya,Chennai,Tamil Nadu,Silver
+C1006,Karan,Delhi,Delhi,Gold
+C1007,Neha,Bengaluru,Karnataka,Bronze
+C1008,Imran,Hyderabad,Telangana,Gold
+C1009,Divya,Mumbai,Maharashtra,Silver
+C1010,Zoya,Chennai,Tamil Nadu,Gold
